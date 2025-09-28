@@ -1,0 +1,15 @@
+appsettings.json
+bin/
+obj/
+.idea/
+.vscode/
+
+*.exe
+*.dll
+*.pdb
+*.json
+*.env
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
